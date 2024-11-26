@@ -1,0 +1,482 @@
+EÖTVÖS LORÁND UNIVERSITY
+FACULTY OF EDUCATION AND PSYCHOLOGY
+Theses of the Doctoral Dissertation
+Szabolcs Zsuzsanna
+Aikido – from the viewpoints of psychology and sports 
+physiology
+Doctoral School of Psychology 
+Head of the School: Demetrovics Zsolt, DSc, professor
+Sports and Healt Psychophysiology Programme
+Head of the School: Bárdos György, DSc, professor 
+Supervisors:
+Köteles Ferenc, DSc, professor and Szemerszky Renáta, PhD, assistant 
+professor
+Budapest, 2020
+1. Introduction
+The aim of my doctoral research was to explore the psychological and physiological correlates 
+of aikido practice. 
+Aikido is a martial art of Japanese origin, rooted in ancient martial and philosophical 
+characteristics. It is also a combination of physical activity, self-defense technique, philosophy 
+and educational procedure, the training of the body, the mind and the spirit (Stevens, 2001; 
+Szaotome, 2007 ; K. Ueshiba, 1984; M. Ueshiba, 2002). The name aikido can be interpreted as 
+„the way of spiritual harmony”, where „ai” means harmony, connection, „ki” refers to energy, 
+force and „do” is a method, a way (Szaotome, 2007). A prime aim of aikido is the attainment 
+of harmony and peace (K. Ueshiba, 1984). The practice of aikido is typically performed in pairs, 
+with the aim to defend oneself without causing harm to the attacker, instead to create a harmony 
+of movements (no competitions are held in aikido). Most important characteristics of aikido’s 
+movements are: stability; the evasion from the line of attack, blending with the motion of the 
+attacker and redirecting the force of the attack, based on moving from the centre of the body 
+using circular and spherical movements (Szaotome, 2007; M. Ueshiba, 2002; Westbrook & 
+Ratti, 2003). The practicing of aikido has been spreading both in Hungary and the world in 
+general (About Aikido | Aikikai Foundation, 2019; Magyar Aikido Kerekasztal, 2016).
+Aikido practice can also be considered a regular physical activity (usually exercised 2-3 times 
+a week, for 90 minutes). Regular physical activity has proven positive effects on health 
+protection and improvement, it decreases the risk of physical and mental illnesses and 
+contributes to the development of the health-related physical fitness of its practitioners 
+(Bouchard et al., 2012; Hardman & Stensel, 2009; Lox et al., 2010; Physical Activity 
+Guidelines Advisory Committee, 2018), but for these effects to appear a sufficient amount of 
+suitable physical exercise is indispensable (American College of Sports Medicine, 2017; 
+Haskell et al., 2007). 
+Due to its characteristics, aikido can theoretically be considered a recreational physical activity 
+as well. The requirements for an optimal-quality recreational physical activity are that the given 
+physical exercise should be voluntary, controlled by the individual, it should have cultural and 
+educational aspects as well, provide pleasure, i.e. it should have a positive effect on the actual 
+mood of the practitioner, should ensure the possibility of a life-long participation and generate 
+flow experience in its practitioner (Ábrahám, 2010; Bánhidi, 2016; Caldwell & Witt, 2011; 
+Kovács, 2004; Köteles, 2018; Lox et al., 2010; Outley et al., 2011; Pigram, 1983; Rogers, 2000).
+2
+3
+Being an eastern movement form, aikido can be characterized by the following features: (1) its 
+main objective and focus is spiritual self-development, (2) its foundation is the cooperation and 
+the unity of body and mind, (3) it can be considered a mindful activity, (4) its primary goal is 
+to help practitioners to better function as a whole, in harmony with themselves, others, and the 
+world and (5) all these for a long term, offering the possibility of life-long exercise (D. H. K. 
+Brown, 2013; Lee et al., 2015; Lu et al., 2009; Schmalzl et al., 2014; Stevens, 2001; Szaotome, 
+2007; K. Ueshiba, 1984; M. Ueshiba, 2002). The regular practice of aikido can in theory 
+develop practitioners level of spirituality (Wheeler & Hyland, 2008), body awareness (Mehling 
+et al., 2009), mindfulness (Bishop et al., 2004; Mehling et al., 2009; Zgierska et al., 2009) self compassion (Neff, 2011) and subjective well-being (Keyes et al., 2002).
+According to both its founder (Ueshiba Morihei), masters and its practitioners, the regular 
+practicing of aikido exerts an improving effect on body and soul (Stevens, 2001; Szaotome, 
+2007; K. Ueshiba, 1984; M. Ueshiba, 2002).
+However, it is questionable how these effects materialize factually, in a measurable manner.
+2. The psychological and physiological correlates of aikido practice: a systematic review 
+(Study 1)1
+2.1. Aim
+This systematic literature review aims to summarise the current knowledge about the 
+physiological and psychological benefits of aikido training.
+2.2. Method 
+Databases including SPORTDiscuss, PsycINFO, PubMed, MEDLINE, and ScienceDirect were 
+searched by following the PRISMA guidelines for systematic reviews (Liberati et al., 2009). 
+The search term was “aikido” in title, abstract, keyword.
+The search was restricted to articles in English language, academic journals, and articles with 
+an abstract. Reviews, meta-analyses, conference papers, case-studies, books, book chapters, and 
+theses/dissertations, were excluded. Further, studies in which aikido was not the independent 
+variable, or the intervention was not a traditional (original) aikido training, were also excluded; 
+ 1 Publcated work: Szabolcs Z., Köteles F., Szabo A. (2017). Physiological and psychological benefits of aikido 
+training: a systematic review. Archives of Budo, 13, 271-283
+similarly like studies focusing on the enhancement of training’s efficacy, or detailed description 
+of the techniques. A total of 20 articles met the criteria for inclusion set for the review.
+2.3. Brief summary of the results 
+The reviewed studies vary in their focus and study design, and some of the studies are 
+methodological questionalbe (e.g. they worked with too short intervention periods, there are no 
+comparative or control groups). The findings of the here reviewed studies may be considered 
+preliminary, or exploratory, although they show promising results. and certainly worth 
+following up. Studies were typically psychologically or physiologically focused
+Based on the summary of physiological research, one of the most robust results is that a longer 
+aikido training is beneficial in the healing of scoliosis for boys, more than conventional 
+corrective exercises (Mroczkowski, 2013; Mroczkowski & Jaskólski, 2006, 2007). It can be 
+said that it is likely that (already a five-month long) aikido training enhances the flexibility of 
+the upper extremities in young adults, compared to other physical activities (Huang et al., 2008). 
+Studies also show that among postmenopausal women aikido improves balance stability 
+(Bazanov et al., 2015, 2017). Findings also suggest, that length of aikido training is associated 
+with better functional efficacy in male aikido practitioners (Boguszewski et al., 2013). More 
+exploratory and less robust studies also show that in comparison to Shotokan karateka, 
+practitioners of aikido seem to be at higher risk of head/neck, upper extremity and soft tissue 
+injury (Zethar et al., 2005), and that aikido practice does not really increase aerobic capacity 
+compared to aerobic exercise (Jasnoski et al., 1987), and does not improve the grip strength of 
+the two hands compared to other martial arts and combat sports (Vodicka et al., 2016).
+The studies concerning the psychological correlates of aikido practice are methodological less 
+robust, their results therefore can be considered rather preliminary, or exploratory. A finding of 
+a more robust research shows that aikido practice has a positive impact on mindfulness among 
+adult practitioners (Lothes II et al., 2013). The practice of aikido in adults also appears to be 
+associated with a lower level of ego-orientation as a goal-orientation in sport (Gernigon & Le 
+Bars, 2000) and is associated with better anger-control in contest situations less (Pieter & Pieter, 
+2008). Among adolescents we can see, that practitioners of aikido show lower levels of physical 
+aggression and social, behavioural problems compaired to other martial arts and combat sports 
+(e.g.thai-/kickboxers), and that in their case the choice of aikido practice may be related to 
+socio-economical status (Vertonghen and al., 2014). Aikido seems to promote task-orientation 
+and reduce ego-orientation among children and adolescents (Gernigon & Le Bars, 2000; 
+4
+Vertonghen et al., 2014). The findings also suggest that it may be unlikely that a short period 
+of aikido training moulds self-control (Delva-Tauiliili, 1995), self-esteem, anxiety, and anger 
+expression (Foster, 1997) and aggressive (Delva-Tauiliili, 1995) or Type A behaviour (Jasnoski 
+and al., 1987). In addition, the results of exploratory research (qualitative and with a very small 
+sample size) suggest that a longer period of aikido training might have positive effects on 
+psychotherapeutic work (Faggianelli & Lukoff, 2006), and have particularly beneficial effects 
+for woman by helping them to enjoy the full expression of physical self and focus on functional 
+aspects of their bodies and emotions (Halik & Kochan- Wójcik, 2015; Noad & James, 2003).
+2.4. Discussion 
+Overall, we can say that some principles of aikido, are partly seem to be confirmed by research, 
+like increased awareness (increased mindfulness), a peaceful non-competitive atmosphere (less 
+ego-orientation), immersion in technical development (greater task-orientation). Important 
+movement characteristics of aikido also seem to have benefical effect on the body of 
+practitioners: like the role of stability (better balance stability), soft spherical movements, calm 
+and controlled rolls, flexibility in movement (better upper felxibility, functional efficiency, 
+positive effects on scoliosis). But other essential elements of aikido, such as nonviolence, or 
+internal peace, however, has not been verified by research, as conflicting results have been 
+obtained (e.g. regarding aggressive behavior). Finally, many potential beneficial aspects of 
+aikido training (steeming form it’s practice and philosophy) have not been explored. So further 
+exploratory and replicative research in the future is definitely warranted.
+The studies presented in our systematic research project a global image that aikido practice has 
+positive psychological and physiological benefits, which is in accord with the anecdotal surmise 
+revolving around this martial art.
+5
+6
+3. The physiological effects and correlates of aikido practice: investigating the 
+cardiovascular load and physical fitness of practitioner (Study 2)2
+3.1. Aim
+The aim of this research was to explore the physiological effects and correlates of aikido 
+practice and to examine the extent to which (supplemented by the results of previous research 
+on this topic) regular aikido training meets the optimal criteria and recommendations for 
+recreational physical activity (American College of Sports Medicine, 2017). Therefore we 
+assessed the cardiovascular load of aikido workouts as well as several aspects of participants 
+health-related physical fitness, and also compared the latter to reference values. 
+Our hypotheses were as follows: aikido workouts represent a favorable cardiovascular load: 
+they represent movement predominantly in aerobic heart rate zone; compared to the reference 
+values aikido practitioners show better cardiovascular fitness (maximum oxygen uptake), more 
+favorable body composition (ie, optimal body mass index, lower body fat percent and higher 
+muscle percent), better grip strength and achieve better results on the lateral side bending 
+flexibility test and ont the sit and reach flexibility test; we also assumed that there is no 
+difference between the grip strength of the two hands of aikido practitioners.
+3.2. Method 
+Participants were male aikido practitioners (n = 38, 36.3 ± 9.28 years). Cardiovascular load of 
+conventional aikido workouts was measured by continuous individual heart rate monitoring 
+(Firstbeat Technologies Ltd., Jyväskylä, Finland) during the entire workout (minimum 3 
+workouts / person). For the adequate calculating of participants training heart rate zones we 
+also calculated and took into consideration individual anaerobic thresholds (Ekkekakis et al., 
+2008). Then we calculated how much time participants spent in the aerobic and anaerobic 
+exercise zone (Garber et al., 2011) . 
+Participants health-related physical fitness was measured with using international standards and 
+protocolls: maximum oxygen intake (by using spiroergometer and cycle, and conducting a 
+maximal graded exercise test), body composition (Omron Healthcare Co., Japan) lateral side 
+bending flexibility test (EUROFIT; Olja & Tuxworth , 1995), sit and reach test (EUROFIT; 
+Olja & Tuxwort, 1995) and hand grip strength (EH101, Deyard, China). Measured value of 
+ 2 Publicated work: Szabolcs Z., Körmendi J., Ihász F., Köteles F., Szemerszky R. (2018). Physiological 
+characteristics of aikido practitioners and aikido workouts. Archives of Budo, 14, 259-266.
+7
+each measured variable of each individual was compared to the age and gender adjusted mean 
+value of a Hungarian sample (Ihász et al., 2015, 2016), and in the absence of this to international 
+reference values (EUROFIT ; Consider & Tuxworth, 1995).
+3.3. Brief summary of the results 
+The measurement of cardiovascular load of traditional aikido workouts showed that aikido 
+training has a beneficial effect on the cardiovascular system: participants spent about one-third 
+of their total training time in the aerobic range and about 16% in the anaerobic.The physical 
+fitness measurements showed, that compared to the respective reference group, individuals 
+practicing aikido on a regular basis were characterized by better cardiovascular capacity 
+(maximal oxygen uptake), favorable bodyfat percent and body mass index, and showed better 
+lateral side bending values; however, they were inferior with respect to the sit and reach test, 
+body muscle percent, and hand grip strength. We found no differences between the strength of 
+the two hands.
+3.4. Discussion 
+From these results, together with the results of previous research (which showed a positive 
+association between aikido and better balance stability; Bazanov and al., 2015, 2017; and 
+enhanced felxibility of the upper extremities; Huang and al., 2008) we concluded that aikido 
+represents a recreational exercise with considerable health protective effects, and that aikido 
+practiced 2-3 times a week for 90 minutes suit the ACSM recommendations with the exception 
+of resistance training (American College of Sports Medicine, 2017).
+4. Acute psychological effects of aikido training: investigating affect and flow experience 
+(Study 3)3
+4.1. Aim
+Our next research aimed to explore the acute psychological effects of aikido practice . Our aim 
+was to find out whether the practice of aikido meets the criterion of recreational physical 
+activity, according to which it is joyful, i.e. it pushes the current state of mood in a positive 
+direction (Bánhidi, 2016; Kovács, 2004; Rogers, 2000), and to find out if it is able to generate 
+ 3 Publicated work: Szabolcs Z., Szabo A., Köteles F. (2019): Acute Psychological Effects of Aikido Training; 
+Baltic Journal of Sport & Health Sciences; No. 1(112); 42–49
+8
+flow experience in its participants (Abraham, 2010; Lox et al., 2010), and to thereby 
+scientifically examine the truth of anecdotal narratives about the positive psychological effects 
+of aikido.
+To examine these, we measured the volume of the change in positive and negative affect caused 
+by aikido training, as well as the extent of flow experienced during training, in a self-reported 
+way, using questionnaires.
+Our hypothesis was that aikido practitioners report greater positive affect and less negative 
+affect after training than before training, and that they experience flow during training, and that 
+these changes will be more significant in experienced practitioners, compared to less 
+experienced ones.
+4.2. Method 
+Practitioners of aikido (n = 53; 85% men, 37.2 ± 10.56 years) completed the Positive and 
+Negative Affect Schedule (Gyollai et al., 2011) immediately before and after training and the 
+Hungarian Flow State Questionnaire (Magyaródi et al., 2013) immediately after the training. 
+Participants participated in the survey at least 3 times, so a total of 257 data sets were analyzed.
+4.3. Brief summary of the results 
+We found that aikido training has acute psychological benefits (increased positive affect and 
+decreased negative affect) regardless of belt rank. A further result is that aikido training is 
+associated with flow experience, and this perceived flow experience is relatively independent 
+of the beneficial changes in emotional states resulting from aikido training. Finally, our results 
+also showed that even at lower belt levels practitioners of aikido can be highly absorbed in the 
+experience.
+4.4. Discussion 
+According to our findings, we can say, that aikido meets the criteria of recreational physical 
+activity, that it is joyful and that it generates flow experience. Our results are also in line with 
+that principle of aikido and other martial arts, that the practitioner should be absorbed in the 
+improvement of the technique, in the here-and-now. Our findings also generally support that 
+the practice of aikido has acute psychological benefits.
+9
+5. The " chronic " psychological correlates of aikido practice: exploring it’s relationship 
+with mindfulness, body consciousness, spirituality, self-compassion and subjective well being (Study 4)4
+5 .1. Aim
+Our fourth research aimed to explore the "chronic" (trait-like) psychological correlates of 
+regular aikido practice. We studied the relationship of aikido with psychological characteristics, 
+which could possibly be enhanced by aikido practice (according to its philosophy and practice). 
+Such characteristics are spirituality (Wheeler & Hyland , 2008), body awareness (Mehling et 
+al., 2009), mindfulness (Bishop and al, 2004;. Mehling et al, 2009;.. Zgierski et al, 2009), and 
+self-compassion (Neff, 2011). These characteristics originally rooted in Eastern philosophy and 
+practice and are shown to contribute to psychological and subjective well-being (Brani et al., 
+2014; KW Brown & Ryan, 2003; Ivtzan et al., 2013; Levine & Targ, 2002; Neff, 2011). We 
+also investigated the relationship between aikido and subjective well-being (Keyes et al., 2002).
+To control for different aspects of aikido practice, we used a physically active control group 
+and three comparative groups (from which each can be said to be similar in some aspect to 
+aikido).
+Our hypotheses were as follows: the aikido group does not differ from the yoga group in the 
+level of mindfulness, self-compassion and spirituality, but shows higher values than the other 
+groups (judo, ballroom dance, control); the aikido group shows higher value in the level of 
+subjective well-being and body awareness compared to the control group and ballroom dance; 
+greater aikido experience shows a positive assosiation with higher levels of the studied 
+psychological variables; aikido instructors show higher values in the level of the studied 
+psychological variables than non-instructors.
+5 .2. Method 
+In a cross-sectional design pactitioners of aikido (n = 131 , 19.1% female, 36.8 ± 11.06 years), 
+yoga (n = 86 , 83.7% female 44.1 ± 10.8 4 years), judo (n = 74 , 23% female 34.1 ± 14, 25 
+years) and ballroom dance (n = 87 , 50.6% female, 30.2 ± 13, 08 years), and a physically active 
+control group (n = 87 , 70.1% women, 27.6 ± 9.6 4 years) completed questionnaires to assess 
+their levels of mindfulness (Mindful Attention Awareness Scale; Simor et al., 2013), body 
+ 4 Under publication: Szabolcs Z., Csala, B., Szabo A., Köteles, F.: Psychological aspects of three movement 
+forms of Eastern origin: A comparative study of aikido, judo and yoga.
+10
+awareness (Body Awareness Questionnaire; Emanuelsson et al., 2015; Köteles 2014), self compassion (Self-Compassion Scale; Sági et al., 2013), spirituality (Spiritual Connection 
+Questionnaire; Köteles & Simor, 2014) and subjective well-being (WHO Well-Being 
+Questionnaire; Susánszky et al., 2006). Groups were compaired with gender, age, education, 
+and weekly hours spent with the respective physical activity as covariates.
+5 .3. Brief summary of the results 
+We found, that the practice of aikido is associated with higher levels of spirituality in 
+comparison to ballroom dance, and control, and higher levels of body awareness than control 
+group, and that more experience in aikido is connected to elevated levels of well-being, 
+mindfulness, body-awareness and self-compassion. 
+5 .4. Discussion 
+We can make the conclusion, that aikido - as also formulated along its philosophy - is positively 
+related to higher levels of spirituality (compared to other forms of exercise), mindfulness (as 
+well as other oriental movement forms), body awareness, and higher degree of subjective well being (as well as other physical activities), and may have a beneficial effect on self-compassion.
+6. General discussion
+The aim of my doctoral research was to explore the psychological and physiological correlates 
+of aikido practice.
+Our review of previous studies showed that only very few researches had been carried out 
+regarding physiological and psychological correlates of aikido, and even these studies were 
+characterized by thematic diverseness and methodological heterogeneity and weakness, but 
+they also produced promising findings. Based on more robust psychological studies, it can be 
+said that, in line with its principles, aikido is associated with increased levels of mindfulness, 
+task-orientation, and decreased levels of ego-orientation. The results of physiological research 
+concerning aikido show that practicing aikido can help improve scoliosis, upper exremities 
+flexibility, and functional efficacy. However, several aspects of aikido, the possible beneficial 
+effects stemming from its theory and practice have not been analyzed or the researches 
+produced contradictory results.
+11
+As a result of our research we can conclude that aikido represents a recreational exercise with 
+considerable health protective effects, and that aikido practiced 2-3 times a week for 90 minutes 
+meets the optimal criteria and recommendations expected from physical activity to maintain 
+and improve health, except for the recommendation for resistance training.
+Our studies have also shown that aikido training has acute psychological benefits (with an 
+increase in positive affect and a decrease in negative affect) regardless of belt rank, and that 
+aikido training is associated with flow experience. Thus, aikido meets the criteria of recreational 
+physical activity, that it is joyful and that it generates flow experience.
+According to our findings we can as well make the conclusion, that aikido – as also formulated 
+along its philosophy - is positively related to higher levels of spirituality (compared to other 
+forms of exercise), mindfulness (as well as other oriental movement forms), body awareness, 
+and higher degree of subjective well-being (as well as other physical activities), and may have 
+a beneficial effect on self-compassion.
+Overall, the results of our research presented in this dissertation partially demonstrate the 
+beneficial effects of aikido on body and soul, in line with its principles. As a consequence, we 
+can state that regular aikido practice is a beneficial, even lifelong practiced recreational physical 
+activity.
+References
+About Aikido | Aikikai Foundation. (2019, February 22). 
+http://www.aikikai.or.jp/eng/aikido/about.html
+Ábrahám, J. (2010). Rekreációs alapok. Nemzeti Erőforrás Minisztérium Sportért Felelős 
+Államtitkárság.
+American College of Sports Medicine. (2017). General principles of exercise prescription. In 
+D. Riebe (Ed.), ACSM’s guidelines for exercise testing and prescription (10th ed., pp. 
+143–179). Lippincott Williams & Wilkins.
+Bánhidi, M. (2016). Rekreológia. Magyar Sporttudományi Társaság.
+Bazanova, O. M., Kholodina, N. v., Nikolenko, E. d., & Payet, J. (2017). Training of support 
+afferentation in postmenopausal women. International Journal of Psychophysiology, 
+122, 65–74. https://doi.org/10.1016/j.ijpsycho.2017.05.002
+Bazanova, O. M., Kholodina, N. V., Podoinikov, A. Sh., & Nikolenko, E. D. (2015). 
+Stabilometric, electromyographic, and electroencephalographic parameters in 
+postmenopausal women depend on training support afferentation. Human Physiology, 
+41(4), 386–393. https://doi.org/10.1134/S0362119715040039
+Bishop, S. R., Lau, M., Shapiro, S., Carlson, L., Anderson, N. D., Carmody, J., Segal, Z. V., 
+Abbey, S., Speca, M., Velting, D., & Devins, G. (2004). Mindfulness: A Proposed 
+Operational Definition. Clinical Psychology: Science and Practice, 11(3), 230–241. 
+https://doi.org/10.1093/clipsy.bph077
+Boguszewski, D., Suchcicka, B., Grzegorz Adamczyk, J., & Białoszewski, D. (2013). The 
+functional efficiency and incidence of injuries in men practicing aikido. Pilot study. 
+Journal of Combat Sports & Martial Arts, 4(1), 67–73.
+Bouchard, C., Blair, S. N., & Haskell, W. L. (2012). Physical Activity and Health. Human 
+Kinetics.
+Brani, O., Hefferon, K., Lomas, T., Ivtzan, I., & Painter, J. (2014). The Impact of Body 
+Awareness on Subjective Wellbeing: The Role of Mindfulness. International Body 
+Psychotherapy Journal, 13(1), 95–107.
+Brown, D. H. K. (2013). Seeking spirituality through physicality in schools: Learning from 
+‘Eastern movement forms’. International Journal of Children’s Spirituality, 18(1), 30–
+45. https://doi.org/10.1080/1364436X.2013.776521
+12
+13
+Brown, K. W., & Ryan, R. M. (2003). The benefits of being present: Mindfulness and its role 
+in psychological well-being. Journal of Personality and Social Psychology, 84(4), 822–
+848.
+Caldwell, L. L., & Witt, P. A. (2011). Leisure, recreation, and play from a developmental 
+context. New Directions for Youth Development, 2011(130), 13–27. 
+https://doi.org/10.1002/yd.394
+Delva-Tauiliili, J. (1995). Does brief Aikido training reduce aggression of youth? Perceptual 
+and Motor Skills, 80(1), 297–298. https://doi.org/10.2466/pms.1995.80.1.297
+Ekkekakis, P., Lind, E., Hall, E. E., & Petruzzello, S. J. (2008). Do regression-based computer 
+algorithms for determining the ventilatory threshold agree? Journal of Sports Sciences, 
+26(9), 967–976. https://doi.org/10.1080/02640410801910269
+Emanuelsen, L., Drew, R., & Köteles, F. (2015). Interoceptive sensitivity, body image 
+dissatisfaction, and body awareness in healthy individuals. Scandinavian Journal of 
+Psychology, 56(2), 167–174. https://doi.org/10.1111/sjop.12183
+Faggianelli, P., & Lukoff, D. (2006). Aikido and Psychotherapy: A Study of Psychotherapists 
+Who Are Aikido Practitioners. Journal of Transpersonal Psychology, 38(2), 159–178.
+Foster, Y. A. (1997). Brief aikido training versus karate and golf training and university 
+students’ scores on... Perceptual & Motor Skills, 84(2), 609.
+Garber, C. E., Blissmer, B., Deschenes, M. R., Franklin, B. A., Lamonte, M. J., Lee, I.-M., 
+Nieman, D. C., Swain, D. P., & American College of Sports Medicine. (2011). 
+American College of Sports Medicine position stand. Quantity and quality of exercise 
+for developing and maintaining cardiorespiratory, musculoskeletal, and neuromotor 
+fitness in apparently healthy adults: Guidance for prescribing exercise. Medicine and 
+Science in Sports and Exercise, 43(7), 1334–1359. 
+https://doi.org/10.1249/MSS.0b013e318213fefb
+Gernigon, C., & Le Bars, H. (2000). Achievement goals in aikido and judo: A comparative 
+study among beginner and experienced practitioners. Journal of Applied Sport 
+Psychology, 12(2), 168–179.
+Gyollai, A., Simor, P., Koteles, F., & Demetrovics, Z. (2011). Psychometric properties of the 
+Hungarian version of the original and the short form of the Positive and Negative Affect 
+Schedule (PANAS). Neuropsychopharmacologia Hungarica: A Magyar 
+Pszichofarmakologiai Egyesulet Lapja = Official Journal of the Hungarian Association 
+of Psychopharmacology, 13(2), 73–79.
+Halik, A., & Kochan-Wójcik, M. (2015). The body self in women who practice aikido. Polish 
+Journal of Applied Psychology, 13(3), 25–40. https://doi.org/10.1515/pjap-2015-0035
+Hardman, A. E., & Stensel, D. J. (2009). Physical activity and health. The evidence explained
+(2nd edition). Routledge.
+Haskell, W. L., Lee, I.-M., Pate, R. R., Powell, K. E., Blair, S. N., Franklin, B. A., Macera, C. 
+A., Heath, G. W., Thompson, P. D., & Bauman, A. (2007). Physical activity and public 
+health: Updated recommendation for adults from the American College of Sports 
+Medicine and the American Heart Association. Medicine and Science in Sports and 
+Exercise, 39(8), 1423–1434. https://doi.org/10.1249/mss.0b013e3180616b27
+Huang, C.-C., Yang, Y.-H., Chen, C.-H., Chen, T.-W., Lee, C.-L., Wu, C.-L., Chuang, S.-H., 
+& Huang, M.-H. (2008). Upper extremities flexibility comparisons of collegiate ‘soft’ 
+martial art practitioners with other athletes. International Journal of Sports Medicine, 
+29(3), 232–237.
+Ivtzan, I., Chan, C. P. L., Gardner, H. E., & Prashar, K. (2013). Linking Religion and 
+Spirituality with Psychological Well-being: Examining Self-actualisation, Meaning in 
+Life, and Personal Growth Initiative. Journal of Religion and Health, 52(3), 915–929. 
+https://doi.org/10.1007/s10943-011-9540-2
+Jasnoski, M. L., Cordray, D. S., Houston, B. K., & Osness, W. H. (1987). Modification of Type 
+A behavior through aerobic exercise. Motivation and Emotion, 11(1), 1–17. 
+https://doi.org/10.1007/BF00992210
+Keyes, C. L. M., Shmotkin, D., & Ryff, C. D. (2002). Optimizing well-being: The empirical 
+encounter of two traditions. Journal of Personality and Social Psychology, 82(6), 1007–
+1022.
+Köteles, F. (2014). A Testi Tudatosság Kérdőív magyar verziójának (BAQ-H) vizsgálata 
+jógázó és fiatal felnőtt kontroll mintán. Mentálhigiéné És Pszichoszomatika, 15(4), 373–
+391. https://doi.org/10.1556/Mental.15.2014.4.4
+Köteles, F. (2018, 0 21). Stressz, testmozgás, rekreáció. Sport - Tudomány - Egészség. 
+Fókuszban a rekreáció, Budapest, ELTE PPK.
+Köteles, F., & Simor, P. (2014). Somatic Symptoms and Holistic Thinking as Major 
+Dimensions Behind Modern Health Worries. International Journal of Behavioral 
+Medicine, 21(5), 869–876. https://doi.org/10.1007/s12529-013-9363-5
+Kovács, T. A. (2004). A rekreáció elmélete és módszertana. Fitness Kft.
+14
+15
+Lee, H. S., Katz, L., & Sheehan, D. (2015). The Use of Eastern Philosophy to Human 
+Movement to Promote Physical Literacy with Students. Runner: The Journal of the 
+Health and Physical Education Council of The Alberta Teachers’ Association, 47(1).
+Levine, E. G., & Targ, E. (2002). Spiritual correlates of functional well-being in women with 
+breast cancer. Integrative Cancer Therapies, 1(2), 166–174. 
+https://doi.org/10.1177/1534735402001002008
+Liberati, A., Altman, D. G., Tetzlaff, J., Mulrow, C., Gotzsche, P. C., Ioannidis, J. P. A., Clarke, 
+M., Devereaux, P. J., Kleijnen, J., & Moher, D. (2009). The PRISMA statement for 
+reporting systematic reviews and meta-analyses of studies that evaluate healthcare 
+interventions: Explanation and elaboration. BMJ, 339(jul21 1), b2700–b2700. 
+https://doi.org/10.1136/bmj.b2700
+Lothes II, J., Hakan, R., & Kassab, K. (2013). Aikido experience and its relation to mindfulness: 
+A two-part study. Perceptual & Motor Skills, 116(1), 30–39. 
+https://doi.org/10.2466/22.23.PMS.116.1.30-39
+Lox, C. L., Martin Ginis, K. A., & Petruzzello, S. J. (2010). The Psychology of Exercise. 
+Integrating Theory and Practice (3rd edition). Holcomb Hathaway.
+Lu, C., Tito, J. M., & Kentel, J. A. (2009). Eastern Movement Disciplines (EMDs) and 
+Mindfulness: A New Path to Subjective Knowledge in Western Physical Education. 
+Quest, 61(3), 353–370. https://doi.org/10.1080/00336297.2009.10483621
+Magyar Aikido Kerekasztal. (2016). Szóbeli közlés.
+Magyaródi T., Nagy H., Soltész P., Mózes T., & Oláh A. (2013). Egy újonnan kidolgozott Flow 
+Állapot Kérdőív kimunkálásának és pszichometriai jellemzőinek bemutatása. 
+Pszichológia, 33(1), 15–36. https://doi.org/10.1556/Pszicho.33.2013.1.2
+Mehling, W. E., Gopisetty, V., Daubenmier, J. J., Price, C. J., Hecht, F. M., & Stewart, A. 
+(2009). Body awareness: Construct and self-report measures. PLoS ONE, 4(5), e5614. 
+https://doi.org/10.1371/journal.pone.0005614
+Mroczkowski, A. (2013). The effect of aikido exercises on shaping spinal curvatures in the 
+sagittal plane. Journal of Combat Sports & Martial Arts, 4(2), 173–177.
+Mroczkowski, A., & Jaskólski, E. (2006). Effects of aikido exercises on lateral spine curvatures 
+in children. Archives of Budo, 2(0), 31–34.
+Mroczkowski, A., & Jaskólski, E. (2007). The change of pelvis placement at children under 
+influence of aikido training. Archives of Budo, 3(0), 21–26.
+Neff, K. D. (2011). Self-compassion, self-esteem, and well-being. Social and Personality 
+Psychology Compass, 5(1), 1–12.
+Noad, K., & James, K. (2003). Samurai of gentle power: An exploration of aikido in the lives 
+of women aikidoka. Annals of Leisure Research, 6(2), 134–152.
+Olja, P., & Tuxworth, B. (1995). Eurofit for Adults: Assessment of Health-Related Fitness. 
+Council of Europe Publishing.
+Outley, C., Bocarro, J. N., & Boleman, C. T. (2011). Recreation as a component of the 
+community youth development system. New Directions for Youth Development, 
+2011(130), 59–72. https://doi.org/10.1002/yd.397
+Physical Activity Guidelines Advisory Committee. (2018). 2018 Physical Activity Guidelines 
+Advisory Committee. U.S. Department of Health and Human Services.
+Pieter, W., & Pieter, M. S. (2008). Mood and Performance in Aikido Athletes. Acta 
+Kinesiologiae Universitatis Tartuensis, 13, 107–116.
+Pigram, J. (1983). Outdoor recreation and resource management. Croom Helm.
+Rogers, H. E. (2000). Development of a recreational exercise motivation questionnaire [Phd, 
+Victoria University of Technology]. http://www.vu.edu.au/research
+Sági, A., Köteles, F., & V. Komlósi, A. (2013). Az Önmagunk Iránt Érzett Együttérzés 
+(Önegyüttérzés) skála magyar változatának pszichometriai jellemzői. Pszichológia, 
+33(4), 293–312. https://doi.org/10.1556/Pszicho.33.2013.4.3
+Schmalzl, L., Crane-Godreau, M. A., & Payne, P. (2014). Movement-based embodied 
+contemplative practices: Definitions and paradigms. Frontiers in Human Neuroscience, 
+8. https://doi.org/10.3389/fnhum.2014.00205
+Simor, P., Petke, Z., & Köteles, F. (2013). Measuring pre-reflexive consciousness: The 
+Hungarian validation of the Mindful Attention Awareness Scale (MAAS). Learning & 
+Perception, 5(s2), 17–29. https://doi.org/10.1556/LP.5.2013.Suppl2.2
+Stevens, J. (2001). The philosophy of Aikido. Distributed in the U.S. By Kodansha America.
+Susánszky, É., Konkoly Thege, B., Stauder, A., & Kopp, M. (2006). A WHO Jól-lét kérdőív 
+rövidített (WBI-5) magyar változatának validálása a Hungarostudy 2002 országos 
+lakossági egészségfelmérés alapján. Mentálhigiéné És Pszichoszomatika, 7(3), 247–
+255. https://doi.org/10.1556/Mental.7.2006.3.8
+Szaotome, M. (2007). Aikido és a természet harmóniája. Szenzár Kiadó.
+Ueshiba, K. (1984). The spirit of aikido. 1st ed. Kodansha International.
+Ueshiba, M. (2002). Budo. Szenzár Kiadó.
+Vertonghen, J., Theeboom, M., & Pieter, W. (2014). Mediating factors in martial arts and 
+combat sports: An analysis of the type of martial art, characteristics, and social 
+background of young participants. Perceptual & Motor Skills, 118(1), 41–61.
+16
+Vodicka, T., Pieter, W., Reguli, Z., & Zvonar, M. (2016). Isokinetic strength of the wrist in 
+male aikido athletes. Ido Movement for Culture. Journal of Martial Arts Anthropology, 
+16(2), 48–54.
+Westbrook, A., & Ratti, O. (2003). Aikido és a dinamikus gömb. Lunarimpex Kiadó.
+Wheeler, P., & Hyland, M. E. (2008). The development of a scale to measure the experience of 
+spiritual connection and the correlation between this experience and values. Spirituality 
+and Health International, 9(4), 193–217. https://doi.org/10.1002/shi.348
+Zetaruk, M. N., Violán, M. A., Zurakowski, D., & Micheli, L. J. (2005). Injuries in martial arts: 
+A comparison of five styles. British Journal of Sports Medicine, 39(1), 29–33.
+Zgierska, A., Rabago, D., Chawla, N., Kushner, K., Koehler, R., & Marlatt, A. (2009). 
+Mindfulness Meditation for Substance Use Disorders: A Systematic Review. Substance 
+Abuse, 30(4), 266–294. https://doi.org/10.1080/08897070903250019
+17
